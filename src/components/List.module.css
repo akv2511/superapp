@@ -1,0 +1,17 @@
+.heading{
+    color: white;
+    font-size: 2rem;
+    margin-left: 2vw;
+    margin-bottom: 1vw;
+    color: #878787;
+}
+.back{
+    color:white;
+    background:green;
+    border-radius:12px;
+    position:absolute;
+    bottom:1vh;
+    right:3vw;
+    border: none;
+    padding: 12px;
+}
